@@ -12,6 +12,7 @@
         android:text="Hello World!" />
 
     <EditText
+        android:id="@+id/et"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="张阿拉法哈哈，啊激发剂，，，，，，，，，" />
