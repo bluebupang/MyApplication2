@@ -4,4 +4,4 @@
     <item android:drawable="@color/menu_bg_press" android:state_pressed="true"/>
     <item android:drawable="@color/menu_bg_normal"/>
 
-</selector><!-- From: file:/G:/AndroidStudios/MyApplication2/EletroMarket/src/main/res/drawable/menu_icon_bg.xml -->
+</selector>

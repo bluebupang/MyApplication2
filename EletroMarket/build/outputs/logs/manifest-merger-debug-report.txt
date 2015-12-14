@@ -9,6 +9,8 @@ ADDED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifes
 		INJECTED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml
 	android:versionCode
 		ADDED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from G:\AndroidStudios\MyApplication2\EletroMarket\src\main\AndroidManifest.xml

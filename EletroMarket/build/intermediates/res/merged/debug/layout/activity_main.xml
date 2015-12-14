@@ -31,4 +31,4 @@
         android:background="@drawable/bg_tab" >
     </FrameLayout>
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/G:/AndroidStudios/MyApplication2/EletroMarket/src/main/res/layout/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout>

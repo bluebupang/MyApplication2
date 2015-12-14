@@ -5,4 +5,4 @@
     <item android:state_focused="true" android:drawable="@color/bg_tab_pressed"/>
     <item android:drawable="@android:color/transparent"/>
 
-</selector><!-- From: file:/G:/AndroidStudios/MyApplication2/EletroMarket/src/main/res/drawable/bg_tab_text.xml -->
+</selector>

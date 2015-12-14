@@ -27,4 +27,4 @@
         android:id="@+android:id/progress"
         android:drawable="@drawable/rating_small_full"/>
 
-</layer-list><!-- From: file:/G:/AndroidStudios/MyApplication2/EletroMarket/src/main/res/drawable/ratingbar_small.xml -->
+</layer-list>

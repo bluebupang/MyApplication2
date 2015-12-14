@@ -10,4 +10,4 @@
         android:layout_gravity="center"
         android:src="@drawable/ic_empty_page" />
 
-</FrameLayout><!-- From: file:/G:/AndroidStudios/MyApplication2/EletroMarket/src/main/res/layout/loading_page_empty.xml -->
+</FrameLayout>
